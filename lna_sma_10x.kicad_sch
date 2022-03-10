@@ -6,8 +6,8 @@
 
   (title_block
     (title "Low Noise Amplifier SMA 10x")
-    (date "2022-03-03")
-    (rev "0.1")
+    (date "2022-03-10")
+    (rev "1.0")
     (company "HugonLabs")
   )
 
